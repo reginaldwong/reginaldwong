@@ -1,6 +1,6 @@
 # Hi there, I'm Reginald 👋
 
-I'm a software engineer with a passion for building scalable and maintainable web applications. I love working on challenging projects that push my boundaries and allow me to learn and grow.
+I'm a software engineer with a passion for building great products and solving problems. I love working on challenging projects that push my boundaries and allow me to learn and grow.
 
 ## 🔭 What I'm Working On
 
