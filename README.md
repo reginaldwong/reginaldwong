@@ -8,7 +8,7 @@ I'm currently working on various projects, both frontend and backend focused. I'
 
 ## 🌱 What I'm Learning
 
-I'm currently learning about databases, web development, as well as the MERN stack to better create full stack applications. I'm also interested in learning more about GraphQL and TypeScript, and plan to dive deeper into it in the future.
+I'm currently learning about databases, as well as the MERN stack to better create full stack applications. I'm also interested in learning more about GraphQL and TypeScript, and plan to dive deeper into it in the future.
 
 ## 👯 Collaboration
 
